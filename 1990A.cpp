@@ -1,5 +1,3 @@
-
-// https://codeforces.com/problemset/problem/1990/A
 #include <iostream>
 #include<algorithm>
 using namespace std;
