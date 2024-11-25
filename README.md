@@ -14,3 +14,4 @@ This Repo contains the solution to the problems that are solved in codeforces.
 |2035B - Everyone Loves Tres|[Codeforces](https://codeforces.com/problemset/problem/2035/B)|[Solution](./2035B.cpp)|
 |2005A - Simple Palindrome|[Codeforces](https://codeforces.com/problemset/problem/2005/A)|[Solution](./2005A.cpp)|
 |2013B - Battle for Survive|[Codeforces](https://codeforces.com/problemset/problem/2013/B)|[Solution](./2013B.cpp)|
+|1992C - Gorilla and Permutation|[Codeforces](https://codeforces.com/problemset/problem/1992/C)|[Solution](./1992C.cpp)|
