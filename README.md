@@ -13,3 +13,4 @@ This Repo contains the solution to the problems that are solved in codeforces.
 |1971C - Clock and Strings|[Codeforces](https://codeforces.com/problemset/problem/1971/C)|[Solution](./1971C.cpp)|
 |2035B - Everyone Loves Tres|[Codeforces](https://codeforces.com/problemset/problem/2035/B)|[Solution](./2035B.cpp)|
 |2005A - Simple Palindrome|[Codeforces](https://codeforces.com/problemset/problem/2005/A)|[Solution](./2005A.cpp)|
+|2013B - Battle for Survive|[Codeforces](https://codeforces.com/problemset/problem/2013/B)|[Solution](./2013B.cpp)|
