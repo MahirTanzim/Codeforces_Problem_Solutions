@@ -15,5 +15,5 @@ This Repo contains the solution to the problems that are solved in codeforces.
 |2005A - Simple Palindrome|[Codeforces](https://codeforces.com/problemset/problem/2005/A)|[Solution](./2005A.cpp)|
 |2013B - Battle for Survive|[Codeforces](https://codeforces.com/problemset/problem/2013/B)|[Solution](./2013B.cpp)|
 |1992C - Gorilla and Permutation|[Codeforces](https://codeforces.com/problemset/problem/1992/C)|[Solution](./1992C.cpp)|
-|1992B - Angry Monk|[Codeforces](https://codeforces.com/problemset/problem/1992/B)|[Solution](./1992B.cpp)|
+|1992A - Only Pluses|[Codeforces](https://codeforces.com/contest/1992)|[Solution](./1992A.cpp)|
 
