@@ -17,5 +17,6 @@ This Repo contains the solution to the problems that are solved in codeforces.
 |1992A - Only Pluses|[Codeforces](https://codeforces.com/problemset/problem/1992/A)|[Solution](./1992A.cpp)|
 |1992B - Angry Monk|[Codeforces](https://codeforces.com/problemset/problem/1992/B)|[Solution](./1992B.cpp)|
 |1992C - Gorilla and Permutation|[Codeforces](https://codeforces.com/problemset/problem/1992/C)|[Solution](./1992C.cpp)|
+|1883B - Chemistry|[Codeforces](https://codeforces.com/problemset/problem/1883/B)|[Solution](./1883B.cpp)|
 
 
