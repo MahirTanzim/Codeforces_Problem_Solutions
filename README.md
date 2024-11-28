@@ -1,5 +1,5 @@
-# Codeforces_Problem_Solutions
-This Repo contains the solution to the problems that are solved in codeforces.
+# Codeforces Problem Solutions
+This Repo contains the solution to the problems that I  solved in codeforces.
 
 ## Problems:
 
