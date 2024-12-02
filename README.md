@@ -18,5 +18,6 @@ This Repo contains the solution to the problems that I  solved in codeforces.
 |1992B - Angry Monk|[Codeforces](https://codeforces.com/problemset/problem/1992/B)|[Solution](./1992B.cpp)|
 |1992C - Gorilla and Permutation|[Codeforces](https://codeforces.com/problemset/problem/1992/C)|[Solution](./1992C.cpp)|
 |1883B - Chemistry|[Codeforces](https://codeforces.com/problemset/problem/1883/B)|[Solution](./1883B.cpp)|
+|2042A - Greedy Monocarp|[Codeforces](https://codeforces.com/contest/2042/problem/A)|[Solution](./2042A.cpp)|
 
 
